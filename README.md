@@ -18,12 +18,19 @@ Welcome to the Amazon Website Clone project! This front-end endeavor is designed
 
 ## Technologies Used
 
-- **HTML5**: Used for structuring the content and creating a semantic layout.
+- **HTML**: Used for structuring the content and creating a semantic layout.
 
-- **CSS3**: Employed for styling, ensuring a visually appealing and consistent presentation.
+- **CSS**: Employed for styling, ensuring a visually appealing and consistent presentation.
 
-## Getting Started
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/amazon-clone.git
+
+##Usage
+This project serves as a valuable resource for learning HTML and CSS. Feel free to explore and modify the code to enhance your skills.
+
+##Contributions
+Contributions and feedback are encouraged! If you have suggestions, enhancements, or bug fixes, please submit a pull request. Let's collaboratively refine and improve this learning project.
+
+##Acknowledgments
+This project is an educational endeavor inspired by the Amazon website. All trademarks and copyrights for Amazon's branding and design remain the property of their respective owners.
+
+##Happy coding! 🚀  
